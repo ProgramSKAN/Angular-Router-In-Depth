@@ -1,1 +1,4 @@
-# Angular-Router-In-Depth
+## Angular Router In Depth
+
+    npm start
+    npm run server
